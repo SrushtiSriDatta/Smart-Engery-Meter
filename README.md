@@ -4,8 +4,7 @@
 GSSS Institute of Engineering & Technology for Women, Mysuru  
 Affiliated to VTU, Belagavi, Karnataka, India
 
-**Authors:** Dr. Raghavendra Y. M., Srushti SriDatta, Srusti Gopal, Tejashwini N
-
+**Authors:** Srushti SriDatta, 
 ---
 
 ## Abstract
