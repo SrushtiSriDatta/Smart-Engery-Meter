@@ -1,6 +1,6 @@
 # Intelligent Energy Meter System for Theft and Tamper Prevention
 
-**EMCI 2026 Conference Paper** | Department of Electronics & Communication Engineering  
+**ECMI 2026 Conference Paper** | Department of Electronics & Communication Engineering  
 GSSS Institute of Engineering & Technology for Women, Mysuru  
 Affiliated to VTU, Belagavi, Karnataka, India
 
@@ -172,7 +172,7 @@ Power Supply
 
 ## Conference
 
-This system was presented at the **EMCI 2026 Conference**:
+This system was presented at the **ECMI 2026 Conference**:
 
 > Dr. Raghavendra Y. M., Srushti SriDatta, Srusti Gopal, Tejashwini N,
 > *"Intelligent Energy Meter System for Theft and Tamper Prevention"*,
