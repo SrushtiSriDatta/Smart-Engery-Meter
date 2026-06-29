@@ -175,7 +175,7 @@ This system was presented at the **ECMI 2026 Conference**:
 
 > Dr. Raghavendra Y. M., Srushti SriDatta, Srusti Gopal, Tejashwini N,
 > *"Intelligent Energy Meter System for Theft and Tamper Prevention"*,
-> EMCI 2026, Department of ECE, GSSSIETW, Mysuru, VTU Belagavi.
+> ECMI 2026, Department of ECE,  VTU Belagavi.
 
 ---
 
